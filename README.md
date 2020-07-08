@@ -1,4 +1,7 @@
-### Hi there 👋
+### :bird: 
+- 🌱 I’m currently learning Flutter + Flare to create amazing user experiences.
+- 💬 Ask me about C++, gRPC, Docker, Golang, Typescript
+
 
 <!--
 **alexlekrow/alexlekrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
