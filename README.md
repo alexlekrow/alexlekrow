@@ -1,7 +1,5 @@
 ### :bird: 
-- 🌱 I’m currently learning Flutter + Flare to create amazing user experiences.
-- 💬 Ask me about C++, gRPC, Docker, Golang, Qt/QML, Typescript, Flutter or the Godot Engine
-
+- 🌱 I’m currently working on mastering Flutter and the Godot Engine
 
 <!--
 **alexlekrow/alexlekrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
