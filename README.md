@@ -1,6 +1,6 @@
 ### :bird: 
 - 🌱 I’m currently learning Flutter + Flare to create amazing user experiences.
-- 💬 Ask me about C++, gRPC, Docker, Golang, Typescript
+- 💬 Ask me about C++, gRPC, Docker, Golang, Qt/QML, Typescript, Flutter or the Godot Engine
 
 
 <!--
