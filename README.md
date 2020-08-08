@@ -1,14 +1,7 @@
 ### :bird: 
 [![AlexLeKrows's github stats](https://github-readme-stats.vercel.app/api?username=alexlekrow)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about:
-  C++ 
-  Rust
-  Dart / Flutter
-  Typescript
-  Golang
-  Docker
-  Kubernetes
+- 💬 Ask me about C++, Rust, Dart / Flutter, Typescript, Golang, Docker, Kubernetes
 
 - 🔭 I'm currently working on containerizing safety critical Rust applications.
 - 🌱 I’m currently learning C# and the Godot Engine
