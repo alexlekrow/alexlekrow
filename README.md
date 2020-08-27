@@ -3,8 +3,6 @@
 
 [![Most Used Languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlekrow&theme=radical&layout=compact)](https://github.com/alexlekrow/alexlekrow)
 
-
-
 - 💬 Ask me about C++, Rust, Dart/Flutter, Docker, Kubernetes
 
 - 🔭 I'm currently working on containerizing safety critical Rust applications.
