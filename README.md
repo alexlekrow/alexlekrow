@@ -4,7 +4,7 @@
 
 - 💬 Ask me about C++, Rust, Dart/Flutter, Docker, Kubernetes
 
-- 🌱 I’m currently working on mastering Typescript, GraphQL MySQL and React.
+- 🌱 I’m currently working on mastering Typescript, GraphQL PostgreSQL and Next/React.
 
 <!--
 **alexlekrow/alexlekrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
