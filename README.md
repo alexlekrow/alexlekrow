@@ -1,6 +1,6 @@
 [![Keegan's github stats](https://github-readme-stats.vercel.app/api?username=alexlekrow&show_icons=true&theme=radical&hide=stars,issues,contribs)](https://github.com/alexlekrow/alexlekrow)
 
-[![Most Used Languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlekrow&theme=radical&layout=compact)](https://github.com/alexlekrow/alexlekrow)
+<!-- [![Most Used Languages on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alexlekrow&theme=radical&layout=compact)](https://github.com/alexlekrow/alexlekrow) -->
 
 - 💬 Ask me about C++, Rust, Dart/Flutter, Docker, Kubernetes
 
